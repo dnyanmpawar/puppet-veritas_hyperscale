@@ -73,5 +73,4 @@ class veritas_hyperscale::compute_pkg_inst (
   }
 
  include veritas_hyperscale::compute_service_start
-
 }
